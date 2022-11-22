@@ -180,3 +180,4 @@ cython_debug/
 #.idea/
 mec-3.4.1-api-mini-project/api_data_wrangling_mini_project.py
 mec-3.4.1-api-mini-project/.env
+mec-5.4.4-json-data-wrangling-mini-project/*.py
